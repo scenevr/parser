@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/scenevr/parser/issues"
   },
-  "homepage": "https://github.com/scenevr/parser"
+  "homepage": "https://github.com/scenevr/parser",
+  "dependencies": {
+    "dom-lite": "^0.4.0",
+    "htmlparser2": "^3.8.2",
+    "three": "^0.71.0"
+  }
 }
